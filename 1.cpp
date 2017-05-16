@@ -16,7 +16,7 @@ void cls(){
 	}				//test
 }
 
-
+//if this works then i now know how to use git
 
 void pushdepan(int x){
 	curr = (struct data*)malloc(sizeof(struct data));
